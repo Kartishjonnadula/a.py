@@ -1,1 +1,4 @@
-print("Yoo bro is it working")
+n1=int(input())
+n2=int(input())
+s=n1+n2
+print("Sum is ",s)
